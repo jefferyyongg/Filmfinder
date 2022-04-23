@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: grey;
+}
+
+.title {
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+}
+
+.wrapper {
+  ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0px;
+  list-style-type: none;
+  li{
+    padding: 10px;
+  }
+  }
+}

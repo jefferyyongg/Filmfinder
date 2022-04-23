@@ -1,0 +1,30 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: grey;
+}
+
+.title {
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+}
+
+.wrapper ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0px;
+  list-style-type: none;
+}
+
+.wrapper ul li {
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
